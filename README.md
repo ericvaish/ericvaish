@@ -6,7 +6,7 @@ I design and develop end-to-end solutions, with modern Machine Learning framewor
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ericvaish&label=Profile%20views&color=0e75b6&style=flat" alt="ericvaish" /> </p>
 
-- 🔭 My latest weekend project : [ReclaimYourFinances](track.ericvaish.com)
+- 🔭 My latest weekend project : [ReclaimYourFinances](https://track.ericvaish.com)
 
 - 👨‍💻 Working full time as ML Software Engineer at Aeron Systems.
 
