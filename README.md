@@ -10,11 +10,11 @@ I design and develop end-to-end solutions, with modern Machine Learning framewor
 
 - 👨‍💻 Working full time as ML Software Engineer at Aeron Systems.
 
-- 📝 I write articles once in a while : [https://ericvaish.com/blog](https://ericvaish.com/blog)
+- 📝 I write articles once in a while : [ericvaish.com/blog](https://ericvaish.com/blog)
 
 - 📫 How to reach me : **hi@ericvaish.com**
 
-- 😄 About me : [https://ericvaish.com/about](https://ericvaish.com/about)
+- 😄 About me : [ericvaish.com/about](https://ericvaish.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
