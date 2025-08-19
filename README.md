@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hi, I'm Eric Vaish</h1>
+<h1 align="center">👋 Hi, I'm Eric</h1>
 
 I design and develop end-to-end solutions, with modern Machine Learning frameworks, Computer Vision technologies, and DevOps practices to solve real-world challenges and build advanced navigation systems.
 
