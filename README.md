@@ -4,9 +4,7 @@
 
 I design and develop end-to-end solutions, with modern Machine Learning frameworks, Computer Vision technologies, and DevOps practices to solve real-world challenges and build advanced navigation systems.
 
-<p><br></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericvaish&label=Profile%20views&color=0e75b6&style=flat" alt="ericvaish" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ericvaish&label=Profile%20views&color=0e75b6&style=flat" alt="ericvaish" /> </p>
 
 - 🔭 My latest weekend project : [ReclaimYourFinances](track.ericvaish.com)
 
