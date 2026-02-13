@@ -20,7 +20,7 @@ I design and develop end-to-end solutions, with modern Machine Learning framewor
 
 Eight interactive visualizations that dismantle core LLM concepts. Click, explore, understand.
 
-👉 **[Try it live →](https://lmviz.ericvaish.com)**
+👉 **[lmviz.com →](https://lmviz.com)**
 
 ---
 
