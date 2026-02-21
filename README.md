@@ -24,7 +24,7 @@ Eight interactive visualizations that dismantle core LLM concepts. Click, explor
 
 ---
 
-### 🧠 SportsDay — Your sports day, scored in real time
+### 🏆 SportsDay — Your sports day, scored in real time
 
 Live scores for cricket & badminton. Every ball. Every point.
 
