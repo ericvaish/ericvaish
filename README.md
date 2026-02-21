@@ -20,7 +20,7 @@ I design and develop end-to-end solutions, with modern Machine Learning framewor
 
 Eight interactive visualizations that dismantle core LLM concepts. Click, explore, understand.
 
-👉 **[lmviz.com →](https://lmviz.com)**
+**[lmviz.com →](https://lmviz.com)**
 
 ---
 
@@ -28,7 +28,7 @@ Eight interactive visualizations that dismantle core LLM concepts. Click, explor
 
 Live scores for cricket & badminton. Every ball. Every point.
 
-👉 **[sportsday.fun →](https://sportsday.fun)**
+**[sportsday.fun →](https://sportsday.fun)**
 
 ---
 
