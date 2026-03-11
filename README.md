@@ -32,6 +32,15 @@ Live scores for cricket & badminton. Every ball. Every point.
 
 ---
 
+### 🖥️ Third Screen — Your day, at a glance
+
+A native macOS dashboard with resizable cards for Spotify, Calendar, Reminders, Battery, and more.
+
+**[github →](https://github.com/ericvaish/thirdscreen)**
+**[thirdscr.com →](https://thirdscr.com)**
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eric-vaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-vaish" height="30" width="40" /></a>
