@@ -36,7 +36,7 @@ Live scores for cricket & badminton. Every ball. Every point.
 
 A native macOS dashboard with resizable cards for Spotify, Calendar, Reminders, Battery, and more.
 
-**[github →](https://github.com/ericvaish/thirdscreen)**
+**[github →](https://github.com/ericvaish/thirdscreen)**  
 **[thirdscr.com →](https://thirdscr.com)**
 
 ---
