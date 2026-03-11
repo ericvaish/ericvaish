@@ -19,6 +19,7 @@ I design and develop end-to-end solutions, with modern Machine Learning framewor
 ### 🧠 LMVIZ — Language Model Visualizer
 
 Eight interactive visualizations that dismantle core LLM concepts. Click, explore, understand.
+
 **[lmviz.com →](https://lmviz.com)**
 
 ---
@@ -26,6 +27,7 @@ Eight interactive visualizations that dismantle core LLM concepts. Click, explor
 ### 🏆 SportsDay — Your sports day, scored in real time
 
 Live scores for cricket & badminton. Every ball. Every point.
+
 **[sportsday.fun →](https://sportsday.fun)**
 
 ---
@@ -33,6 +35,7 @@ Live scores for cricket & badminton. Every ball. Every point.
 ### 🖥️ Third Screen — Your day, at a glance
 
 A native macOS dashboard with resizable cards for Spotify, Calendar, Reminders, Battery, and more.
+
 **[github →](https://github.com/ericvaish/thirdscreen)**  
 **[thirdscr.com →](https://thirdscr.com)**
 
