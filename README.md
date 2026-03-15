@@ -41,6 +41,15 @@ A native macOS dashboard with resizable cards for Spotify, Calendar, Reminders, 
 
 ---
 
+### 🔐 openvlt — Your notes. Your files. Your server.
+
+Self-hosted, open-source notes app built on plain markdown files.
+
+**[github →](https://github.com/ericvaish/openvlt)**  
+**[openvlt.com →](https://openvlt.com)**
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eric-vaish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-vaish" height="30" width="40" /></a>
