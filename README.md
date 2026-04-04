@@ -16,11 +16,22 @@ I design and develop end-to-end solutions, with modern Machine Learning framewor
 
 ---
 
-### 🧠 LMVIZ — Language Model Visualizer
+### 🔐 openvlt — Your notes. Your files. Your server.
 
-Eight interactive visualizations that dismantle core LLM concepts. Click, explore, understand.
+Self-hosted, open-source notes app built on plain markdown files.
 
-**[lmviz.com →](https://lmviz.com)**
+**[github →](https://github.com/ericvaish/openvlt)**  
+**[openvlt.com →](https://openvlt.com)**
+
+
+---
+### 🖥️ Third Screen — Your day, at a glance
+
+A native macOS dashboard with resizable cards for Spotify, Calendar, Reminders, Battery, and more.
+
+**[github →](https://github.com/ericvaish/thirdscreen)**  
+**[thirdscr.com →](https://thirdscr.com)**
+
 
 ---
 
@@ -32,21 +43,11 @@ Live scores for cricket & badminton. Every ball. Every point.
 
 ---
 
-### 🖥️ Third Screen — Your day, at a glance
+### 🧠 LMVIZ — Language Model Visualizer
 
-A native macOS dashboard with resizable cards for Spotify, Calendar, Reminders, Battery, and more.
+Eight interactive visualizations that dismantle core LLM concepts. Click, explore, understand.
 
-**[github →](https://github.com/ericvaish/thirdscreen)**  
-**[thirdscr.com →](https://thirdscr.com)**
-
----
-
-### 🔐 openvlt — Your notes. Your files. Your server.
-
-Self-hosted, open-source notes app built on plain markdown files.
-
-**[github →](https://github.com/ericvaish/openvlt)**  
-**[openvlt.com →](https://openvlt.com)**
+**[lmviz.com →](https://lmviz.com)**
 
 ---
 
